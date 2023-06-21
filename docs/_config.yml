@@ -229,7 +229,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+<<<<<<< HEAD
   - jekyll-include-cache
+=======
+markdown: GFW
+>>>>>>> ceb3033bab45756785e736f23c5ed6609bb8c0e2
 
 # mimic GitHub Pages with --safe
 whitelist:
