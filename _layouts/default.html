@@ -23,18 +23,17 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p><a href="/BoHuang_CV.pdf" download style="margin-bottom: 10px;">Download My_CV.pdf</a></p>
 
         {% if site.email %}
-        <p>Email: <a href="mailto:{{site.email}}">{{site.email}}</a></p>
+        <p class="view"><a href="/BoHuang_CV.pdf">📄 Download my CV<small>{{ "BoHuang_CV.pdf" }}</small></a></p>
         {% endif %}
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% if site.email %}
+        <p class="view"><a href="mailto:{{site.email}}">📧 Email me at<small>{{ site.email }}</small></a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile<small>{{ site.github.owner_url }}</small></a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}">📦 My GitHub<small>{{ site.github.owner_url }}</small></a></p>
         {% endif %}
 
 
@@ -45,11 +44,11 @@
       
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p><small>This pages is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</small></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Powered by <a href="https://github.com">GitHub</a>, <a href="https://www.openai.com">OpenAI</a> and the <a href="https://github.com/orderedlist">minimal theme</a>.</small></p>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
-</html>
+ </html>
+      
