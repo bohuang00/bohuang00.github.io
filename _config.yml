@@ -1,4 +1,4 @@
-title: 黄博 Bo Huang
+title: Bo Huang 黄博
 logo: /assets/img/IMG_5895_副本中.png
 description: A graduate student of BUCT, currently focus on a cross-disciplinary research project that combines MS & CS
 show_downloads: false
@@ -7,3 +7,10 @@ theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+show_posts: true
+
+github:
+  is_user_page: true
+  owner_url: https://github.com/bohuang00
+
+email: kyle002000@qq.com

@@ -2,62 +2,52 @@
 layout: default
 ---
 
-# 关于我 | About Me
+# Profile
+I'm Bo Huang, a multidisciplinary professional and second-year Master's student at the [Beijing University of Chemical Technology](https://www.buct.edu.cn/). My academic journey spans across Material Science, Chemical Engineering, and Computer Technology. Currently, I'm developing a program dedicated to MOF (Metal-Organic Framework) assembly and modification, an intersection of my academic knowledge and practical application.
 
-## *中文：*
+# Education
 
-### 个人信息
+- **Master's Degree in Computer Technology**, [Beijing University of Chemical Technology](https://www.buct.edu.cn/), 2021-Present
+  - Focusing my studies on advanced computational methods and their application in the field of Material Science. My current research project involves developing software for high-throughput computational analysis of MOF (Metal-Organic Framework) membrane materials.
 
-你好，我是 **黄博**，一名热衷于编程，热爱开源的开发者。我目前在北京化工大学攻读计算机技术硕士学位，我的本科专业是材料科学与工程。
+- **Bachelor of Engineering in Material Science and Engineering**, [Beijing University of Chemical Technology](https://www.buct.edu.cn/), 2017-2021
+  - Graduated with a comprehensive understanding of material science and engineering principles. My thesis project, "Preparation and Electrochemical Performance Study of Cathode Materials for Lithium-Sulfur Batteries," allowed me to apply my knowledge to practical problems in the field.
 
-### 我的项目
 
-以下是我一些项目：
 
-1. [膜材料高通量技术](项目链接1) - 项目简介
-2. [MOF改性](项目链接2) - 项目简介
+# Project Experience
 
-### 联系我
+- **[Project Name]** ([Project Link if applicable])
+  - Briefly describe the project and its purpose. What problem was it solving?
+  - Explain your role and your key contributions to the project.
+  - Discuss the technologies and methodologies used.
+  - Discuss the results, impact, or what you learned from the project.
 
-如果你有任何问题，或者只是想说你好，随时向我发邮件: **<bohuang0000@gmail.com>**。
+# Skills
 
-### 我的技能
+- **Programming Languages**: Python, C, C++
+- **Tools/Frameworks**: [Tool/Framework 1, Tool/Framework 2, ...]
+- **Systems**: [System 1, System 2, ...]
+- **English**: CET-4, TOEFL-00
 
-**技能1**
-**技能2**
-**技能3**
+# Volunteer Experience
 
-### 我的兴趣爱好
+- **Campus Ambassador**, [Junior Achievement China](https://www.jachina.org/), 2017-2020
+  - Recognized as an 'Outstanding Campus Manager 2019' for my contributions in organizing and facilitating a variety of career development activities.
+  - Spearheaded initiatives to invite professionals from renowned corporations for campus symposiums, providing students with valuable industry insights.
+  - Coordinated field trips to major corporations, exposing students to real-world business environments.
+  - Took on diverse roles, including drafting activity plans, designing promotional posters, and liaising with corporate volunteers, demonstrating my adaptability and teamwork skills.
+  - Successfully organized approximately ten events, benefiting over 200 student participants.
 
-当我不在编程时，我喜欢 **你的兴趣爱好**。
 
-## *English:*
+# Hobbies
 
-### Personal Information
+I have a diverse range of hobbies that have helped me develop discipline, perseverance, and appreciation for nature:
 
-Hello, I'm **Your Name**, a programmer who is passionate about coding and open source. Currently, I'm a master's student studying Computer Technology at Beijing University of Chemical Technology. I got my Bachelor's degree in Material Science and Engineering.
+- **Swimming**: Proficient in various swimming styles, including breaststroke, freestyle, and butterfly stroke. Swimming has honed my discipline and endurance.
 
-### My Projects
+- **Nature Exploration**: I have a deep appreciation for the beauty of natural landscapes. I enjoy mountain climbing and hiking, which has instilled a strong sense of adventure and respect for nature.
 
-Here are some of my projects on GitHub:
+# Recent Notes
 
-1. [Project Name1](Project link1) - Project Description
-2. [Project Name2](Project link2) - Project Description
-
-### Contact Me
-
-If you have any questions or just want to say hi, feel free to email me at: **Your Email**.
-
-You can also find me on:
-
-- Twitter: [@Your Username](Your Twitter Link)
-- LinkedIn: [Your Name](Your LinkedIn Link)
-
-### My Skills
-
-I have skills in **Skill1, Skill2, Skill3**, etc.
-
-### My Interests
-
-When I'm not programming, I enjoy **Your Hobbies**.
-
+You could manually update this section, or if you have a blog or other section of your site where you post notes, you could dynamically populate this section with your most recent posts.
