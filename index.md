@@ -54,7 +54,7 @@ I have a diverse range of hobbies that have helped me develop discipline, persev
 
 Listing all of my blog entries directly here may be somewhat overwhelming. To navigate my writings more easily, please follow the link below to access a well-organized index of my blog posts. I utilize this space to publish an array of content, from academic insights and technological exploration to musings on daily life and experiential reflections. I warmly invite you to explore these pages.
 
-Please check out my [Blog Index](/blog/).
+Please check out my [Blog Index](/blog_index.html).
 
 Welcome to my blog!
 

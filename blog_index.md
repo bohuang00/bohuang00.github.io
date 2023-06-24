@@ -1,7 +1,6 @@
 ---
 layout: post_only
 title: "Blog Index"
-permalink: /blog/
 ---
 
 
@@ -13,7 +12,7 @@ I may opt to write blog posts in Chinese. I appreciate your understanding.
 
 ## Technology
 
-- [Hello World](/technology/2023/06/21/Hello-World)
+- [Hello World](/technology/2023/06/21/HelloWorld)
   - Published: 20230621
   - Summary: 我的pages创建之路
 

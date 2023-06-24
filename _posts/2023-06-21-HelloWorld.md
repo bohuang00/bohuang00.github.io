@@ -1,6 +1,6 @@
 ---
 layout: post_only
-title:  "Hello Word"
+title:  "HelloWorld"
 author: Bo Huang
 date: 2023-06-21
 categories: [Technology]

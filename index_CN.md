@@ -3,7 +3,7 @@ layout: default
 title: 'Home Page - Chinese Simplify' 
 ---
 
-[⬅️ 回到主页](./index.md)
+[⬅️ 回到主页](/index.html)
 
 # 简介 
 
