@@ -1,6 +1,7 @@
 ---
-layout: post
-title:  "My First Post"
+layout: post_only
+title:  "Hello Word"
+author: Bo Huang
 date: 2023-06-21
 categories: [Technology]
 ---

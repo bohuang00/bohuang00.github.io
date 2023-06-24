@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: post_only
 title: "Blog Index"
 permalink: /blog/
 ---
+
 
 # Blog Index
 
@@ -12,13 +13,10 @@ I may opt to write blog posts in Chinese. I appreciate your understanding.
 
 ## Technology
 
-- [test](/technology/2023/06/21/Hello-World)
-  - Published: Date
-  - Summary: Post summary...
+- [Hello World](/technology/2023/06/21/Hello-World)
+  - Published: 20230621
+  - Summary: 我的pages创建之路
 
-- [Post Title](post-url)
-  - Published: Date
-  - Summary: Post summary...
 
 ## Research
 
@@ -26,9 +24,12 @@ I may opt to write blog posts in Chinese. I appreciate your understanding.
   - Published: Date
   - Summary: Post summary...
 
-- [Post Title](post-url)
-  - Published: Date
-  - Summary: Post summary...
+
+## Notes
+
+- [软件著作权申请流程](/notes/2023/06/21/软件著作权及其申请过程)
+  - Published: 20230621
+  - Summary: 总结了中国软件著作权的相关概念和申请流程
 
 ## Life Experiences
 
@@ -36,6 +37,3 @@ I may opt to write blog posts in Chinese. I appreciate your understanding.
   - Published: Date
   - Summary: Post summary...
 
-- [Post Title](post-url)
-  - Published: Date
-  - Summary: Post summary...

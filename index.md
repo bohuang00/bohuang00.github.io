@@ -9,11 +9,11 @@ I'm Bo Huang, a multidisciplinary professional and second-year Master's student 
 
 ## Education
 
-- **Computer Technology, Beijing, China. M.S.**, [Beijing University of Chemical Technology](https://www.buct.edu.cn/), 2021-Present
+- **Computer Technology, Beijing, China. M.S.** , [Beijing University of Chemical Technology](https://www.buct.edu.cn/) , 2021-Present
   - Guided by Professor [Hui Li](http://www.whoeveryou.com/), a renowned researcher in the field of Mathematics and Computer science. Beyond academia, Professor Li has provided immense support and mentorship in various aspects of thought and life, profoundly influencing my personal and professional growth.
   - Focusing my studies on advanced computational methods and their application in the field of Material Science. My current research project involves developing software for high-throughputcomputational analysis of MOF (Metal-Organic Framework) membrane materials.
 
-- **Material Science and Engineering, Beijing, China. B.S.**, [Beijing University of Chemical Technology](https://www.buct.edu.cn/), 2017-2021
+- **Material Science and Engineering, Beijing, China. B.S.** , [Beijing University of Chemical Technology](https://www.buct.edu.cn/)  2017-2021
   - Acquired broad knowledge base in fields such as Chemistry (Organic, Inorganic and Physical Chemistry, and Electrochemistry), Material Science (Introduction to Materials, Materials Physics and Materials Chemistry), and Chemical Engineering Principles.
   - Further specialized in inorganic non-metallic materials, studying Advanced Ceramic Materials, Thermal Engineering Fundamentals, and Powder Engineering in my third year.
   - Applied my knowledge in the thesis project, “Preparation and Electrochemical Performance Study of Cathode Materials for Lithium-Sulfur Batteries.”
