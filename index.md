@@ -5,7 +5,7 @@ title: 'Home Page'
 
 # Profile
 
-I'm Bo Huang, a multidisciplinary professional and second-year Master's student at the [Beijing University of Chemical Technology](https://www.buct.edu.cn/). My academic journey spans across Material Science, Chemical Engineering, and Computer Technology. Currently, I'm developing a program dedicated to MOF (Metal-Organic Framework) assembly and modification, an intersection of my academic knowledge and practical application.
+I'm Bo Huang, a multidisciplinary professional and second-year Master's student at the Beijing University of Chemical Technology. My academic journey spans across Material Science, Chemical Engineering, and Computer Technology. Currently, I'm developing a program dedicated to MOF (Metal-Organic Framework) assembly and modification, an intersection of my academic knowledge and practical application.
 
 ## Education
 
@@ -20,22 +20,27 @@ I'm Bo Huang, a multidisciplinary professional and second-year Master's student 
 
 ## Project Experience
 
-- **[Project Name]** ([Project Link if applicable])
-  - Briefly describe the project and its purpose. What problem was it solving?
-  - Explain your role and your key contributions to the project.
-  - Discuss the technologies and methodologies used.
-  - Discuss the results, impact, or what you learned from the project.
+- **Automated Modification of MOFs**
+  - **Project Description and Purpose:** The project was designed to innovate and streamline the modification process of MOFs. While prior work involved using pre-modified nodes and edges to assemble MOFs, which often led to a monotonous outcome and required significant alterations if results were unsatisfactory, my program aimed to overcome these limitations. It allows for the generation of a large variety of basic MOFs first, using unmodified nodes and edges, with the flexibility to add diverse modification groups later.
+  - **Role and Key Contributions:** As the lead developer, I devised an innovative approach, creating an algorithm capable of recognizing minimal modification location data in input cif files. This algorithm facilitated the addition of a myriad of modification groups to MOFs, significantly enhancing modification diversity and reducing the margin of error.
+  - **Technologies and Methodologies:** My project utilized the Kabsch algorithm for the precise alignment and identification of modification points within MOFs. Programming was executed using Python, supplemented with molecular visualization software for accurate process monitoring. Future plans include the application of machine learning methodologies to further optimize the search and replacement processes, thereby improving the overall system efficiency and precision.
+  - **Results, Impact, and Learnings:** The program successfully automated the MOF modification process and increased the diversity of modifications. This innovative approach allows for the potential refinement of various applications in MOF-related fields such as clean energy, environmental science, and pharmaceuticals. The project underscored the power of flexible design, the precision needed in molecular simulations, and the effectiveness of the Kabsch algorithm. Moreover, it highlighted the importance of planning for future improvements, such as incorporating machine learning, to continuously enhance system performance.
 
 ## Skills
 
-- **Programming Languages**: Python, C, C++
-- **Tools/Frameworks**: [Tool/Framework 1, Tool/Framework 2, ...]
-- **Systems**: [System 1, System 2, ...]
-- **English**: CET-4, TOEFL-00
+- **English Proficiency:** CET-4, TOEFL-00
+- **Programming Languages:** Python, C, C++, Java
+- **Tools/Frameworks:** Kabsch Algorithm, Crystallographic Information File (CIF) Handling, NumPy for Scientific Computing, SciPy for Advanced Calculations, Matplotlib for Data Visualization, Molecular Visualization Software
+- **Additional:**
+  - Proficiency in developing and implementing complex algorithms
+  - Experienced in molecular simulations and visualizations
+  - Problem-solving skills, especially in technical environments
+  - Knowledge of Metal-Organic Frameworks (MOFs) and their applications
+  - Plans for continuous learning and improvement, including future application   ofmachine learning methodologies
 
 ## Volunteer Experience
 
-- **Campus Ambassador**, [Junior Achievement China](https://www.jachina.org/), 2017-2020
+- **Campus Ambassador**, [Junior Achievement China](http://www.jachina.org/index.html?lang=zh_CN#page1/), 2017-2020
   - Recognized as an 'Outstanding Project Manager 2019' for my contributions in organizing and facilitating a variety of career development activities.
   - Spearheaded initiatives to invite professionals from renowned corporations for campus symposiums, providing students with valuable industry insights.
   - Coordinated field trips to major corporations, exposing students to real-world business environments.

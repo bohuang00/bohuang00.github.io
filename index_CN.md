@@ -5,28 +5,28 @@ title: 'Home Page - Chinese Simplify'
 
 [⬅️ 回到主页](/index.html)
 
-# 简介 
+# 当前页面仅使用机器翻译，后续会进行修改
 
-I'm Bo Huang, a multidisciplinary professional and second-year Master's student at the [Beijing University of Chemical Technology](https://www.buct.edu.cn/). My academic journey spans across Material Science, Chemical Engineering, and Computer Technology. Currently, I'm developing a program dedicated to MOF (Metal-Organic Framework) assembly and modification, an intersection of my academic knowledge and practical application.
+我是黄博，一位跨学科学生，就读于北京化工大学化学工程与技术专业的硕士二年级学生。我的学术领域涵盖了材料科学、化学工程和计算机技术。目前，我正在开发一个专门用于MOF（金属有机框架）组装和修改的程序，将我的学术知识与实际应用相结合。
 
 ## 教育背景
 
-- **Computer Technology, Beijing, China. M.S.**, [Beijing University of Chemical Technology](https://www.buct.edu.cn/), 2021-Present
-  - Guided by Professor [Hui Li](http://www.whoeveryou.com/), a renowned researcher in the field of Mathematics and Computer science. Beyond academia, Professor Li has provided immense support and mentorship in various aspects of thought and life, profoundly influencing my personal and professional growth.
-  - Focusing my studies on advanced computational methods and their application in the field of Material Science. My current research project involves developing software for high-throughputcomputational analysis of MOF (Metal-Organic Framework) membrane materials.
+- **计算机技术，中国北京。硕士学位**，[北京化工大学](https://www.buct.edu.cn/)，2021-至今
+  - 在[李辉教授](http://www.whoeveryou.com/)的指导下，他是数学和计算机科学领域的知名研究者。除了学术方面，李教授在思想和生活的各个方面提供了巨大的支持和指导，深刻地影响着我的个人和职业成长。
+  - 我的学习重点是先进的计算方法及其在材料科学领域的应用。我的当前研究项目涉及开发用于高通量计算分析MOF（金属有机框架）膜材料的软件。
 
-- **Material Science and Engineering, Beijing, China. B.S.**, [Beijing University of Chemical Technology](https://www.buct.edu.cn/), 2017-2021
-  - Acquired broad knowledge base in fields such as Chemistry (Organic, Inorganic and Physical Chemistry, and Electrochemistry), Material Science (Introduction to Materials, Materials Physics and Materials Chemistry), and Chemical Engineering Principles.
-  - Further specialized in inorganic non-metallic materials, studying Advanced Ceramic Materials, Thermal Engineering Fundamentals, and Powder Engineering in my third year.
-  - Applied my knowledge in the thesis project, “Preparation and Electrochemical Performance Study of Cathode Materials for Lithium-Sulfur Batteries.”
+- **材料科学与工程，中国北京。学士学位**，[北京化工大学](https://www.buct.edu.cn/)，2017-2021
+  - 在化学领域（有机化学、无机化学、物理化学和电化学）、材料科学领域（材料导论、材料物理学和材料化学）以及化学工程原理等领域获得了广泛的知识基础。
+  - 在第三年进一步专攻无机非金属材料，学习了先进陶瓷材料、热工学基础和粉体工程等课程。
+  - 将所学知识应用于论文项目“锂硫电池正极材料的制备和电化学性能研究”。
 
 ## 项目经验
 
-- **[Project Name]** ([Project Link if applicable])
-  - Briefly describe the project and its purpose. What problem was it solving?
-  - Explain your role and your key contributions to the project.
-  - Discuss the technologies and methodologies used.
-  - Discuss the results, impact, or what you learned from the project.
+- **MOF自动修改**
+  - **项目描述与目的：** 该项目旨在创新和简化MOF的修改过程。以往的工作通常涉及使用预先修改过的节点和边来组装MOF，这往往导致单调的结果，并且如果结果不理想，则需要进行大量的修改。我的程序旨在克服这些限制。它允许首先生成各种基本的未修改节点和边构成的MOF，并具有后续添加多样化修改基团的灵活性。
+  - **角色与主要贡献：** 作为主要开发者，我设计了一种创新的方法，创建了一个能够识别输入cif文件中最小修改位置数据的算法。这个算法使得可以将各种修改基团添加到MOF中，显著增强了修改的多样性，并减少了误差的边界。
+  - **技术和方法：** 我的项目利用Kabsch算法对MOF中的修改点进行精确对齐和识别。编程方面使用Python，并辅以分子可视化软件进行准确的过程监控。未来计划包括应用机器学习方法进一步优化搜索和替换过程，从而提高系统的效率和精度。
+  - **结果、影响和经验教训：** 该程序成功实现了MOF修改过程的自动化，并增加了修改的多样性。这种创新方法为MOF相关领域的各种应用（如清洁能源、环境科学和制药等）的改进提供了潜在的可能性。该项目强调了灵活设计的力量，分子模拟中所需的精确性，以及Kabsch算法的有效性。此外，它也凸显了为未来改进做规划的重要性，例如整合机器学习，不断提高系统性能。
 
 ## 技能
 
@@ -37,31 +37,33 @@ I'm Bo Huang, a multidisciplinary professional and second-year Master's student 
 
 ## 志愿者经历
 
-- **Campus Ambassador**, [Junior Achievement China](https://www.jachina.org/), 2017-2020
-  - Recognized as an 'Outstanding Project Manager 2019' for my contributions in organizing and facilitating a variety of career development activities.
-  - Spearheaded initiatives to invite professionals from renowned corporations for campus symposiums, providing students with valuable industry insights.
-  - Coordinated field trips to major corporations, exposing students to real-world business environments.
-  - Took on diverse roles, including drafting activity plans, designing promotional posters, and liaising with corporate volunteers, demonstrating my adaptability and teamwork skills.
-  - Successfully organized approximately ten events, benefiting over 200 student participants.
+- **校园大使**，[Junior Achievement, China](http://www.jachina.org/index.html?lang=zh_CN#page1/)，2017-2020
+  - 因组织和推动各种职业发展活动的贡献而被评为“2019年优秀项目经理”。
+  - 主导了邀请知名公司专业人士参加校园研讨会的倡议，为学生们提供了宝贵的行业见解。
+  - 协调组织参观主要企业，让学生们接触到真实的商业环境。
+  - 担任多种角色，包括起草活动计划、设计宣传海报和与企业志愿者进行联络，展示了我的适应能力和团队合作技巧。
+  - 成功组织了约十个活动，惠及了200多名学生参与者。
 
 ## 爱好
 
-I have a diverse range of hobbies that have helped me develop discipline, perseverance, and appreciation for nature:
+我有多样化的爱好，这些爱好帮助我培养了纪律性、毅力和对自然的欣赏：
 
-- **Swimming**: Proficient in various swimming styles, including breaststroke, freestyle, and butterfly stroke. Swimming has honed my discipline and endurance.
+- **游泳**: 熟练掌握各种游泳姿势，包括蛙泳、自由泳和蝶泳。游泳锻炼了我的纪律和耐力。
 
-- **Nature Exploration**: I have a deep appreciation for the beauty of natural landscapes. I enjoy mountain climbing and hiking, which has instilled a strong sense of adventure and respect for nature.
+- **探索自然**: 我对自然景观的美感有着深深的欣赏。我喜欢登山和徒步旅行，这让我具备了强烈的探险精神和对自然的尊重。
 
 ## 博客和笔记
 
-Listing all of my blog entries directly here may be somewhat overwhelming. To navigate my writings more easily, please follow the link below to access a well-organized index of my blog posts. I utilize this space to publish an array of content, from academic insights and technological exploration to musings on daily life and experiential reflections. I warmly invite you to explore these pages.
+直接在这里列出我所有的博客文章可能会有些冗杂。为了更方便地浏览我的文章，请点击下面的链接，访问一个组织良好的博客文章索引。我在这个空间中发布各种内容，从学术见解和技术探索到对日常生活的思考和经验反思。热情地邀请您探索这些页面。
 
-Please check out my [Blog Index](/blog/).
+请查看我的[博客索引](/blog_index.html)。
 
-Welcome to my blog!
+欢迎来到我的博客！
 
-Yestoday is history, Tomorrow is mistory, but Today is a gift
+昨天是历史，明天是未知，但今天是一份礼物。
 
 ## 结束
+
+*信念：自由照耀世界。*
 
 [⬅️ 回到主页](./index.md)
