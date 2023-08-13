@@ -63,8 +63,8 @@ Please check out my [Blog Index](/blog_index.html).
 
 Welcome to my blog!
 
-Yestoday is history, Tomorrow is mistory, but Today is a gift
+
 
 ## END
 
-*TENET: Liberty Enlightening the World.*
+Yestoday is history, Tomorrow is mystery, Today is a gift🎁. 
